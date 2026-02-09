@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/down_arrow_.png</file>
+        <file>image/max_button_.png</file>
+        <file>image/code_param_sample.png</file>
+        <file>image/up_arrow.png</file>
+        <file>image/ask.png</file>
+        <file>image/close.png</file>
+        <file>image/info.png</file>
+        <file>image/switch_button_off.png</file>
+        <file>image/switch_button_on.png</file>
+        <file>image/view_list_button.png</file>
+        <file>image/barcode.png</file>
+        <file>image/logo.png</file>
+        <file>image/boot.png</file>
+        <file>image/checked.png</file>
+        <file>image/unchecked.png</file>
+        <file>qm/Translate_CN.qm</file>
+        <file>qm/Translate_EN.qm</file>
+        <file>qm/qtbase_zh_CN.qm</file>
+        <file>image/keyboard.png</file>
+        <file>image/param.png</file>
+        <file>image/code_param_sample_en.png</file>
+        <file>image/printing.png</file>
+        <file>image/waiting.png</file>
+        <file>image/back.png</file>
+        <file>image/menu.png</file>
+        <file>image/pause.png</file>
+        <file>image/start.png</file>
+        <file>pem/public.pem</file>
+        <file>image/no_view_list_button.png</file>
+    </qresource>
+</RCC>
